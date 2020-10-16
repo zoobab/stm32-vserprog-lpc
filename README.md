@@ -1,3 +1,4 @@
+[![noswpatv3](http://zoobab.wdfiles.com/local--files/start/noupcv3.jpg)](https://ffii.org/donate-now-to-save-europe-from-software-patents-says-ffii/)
 ﻿# stm32-vserprog-lpc:
 ## flashrom serprog LPC programmer based on STM32 MCU & USB CDC protocol.
 **This project based on [`stm32-vserprog`](https://github.com/dword1511/stm32-vserprog) and [`frser-teensyflash`](https://github.com/urjaman/frser-teensyflash) projects.**
